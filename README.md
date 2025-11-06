@@ -1,5 +1,5 @@
 ### EXPERIMENT-07-DEVELOPMENT-OF-LADDER-LOGIC-FOR-TIMER-ONDELAY-FUCTION-ON-PLC-HARDWARE-
-## Name: Aditya Naga Sai
+## Name: Aditya Naga Sai P
 ## Reg no: 212223110036
 ### AIM 
 To develop and execute a ladder logic program using an ON-Delay Timer (TON) in Delta SV2 PLC, and observe its behavior on PLC hardware.
@@ -53,9 +53,9 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 
 
 ###  HARDWARE SETUP 
-![WhatsApp Image 2025-05-22 at 16 33 34_789f15dc](https://github.com/user-attachments/assets/0de00830-67ec-4e8d-8e22-ac66ec583393)
-![WhatsApp Image 2025-05-22 at 16 33 35_498436d8](https://github.com/user-attachments/assets/4ffe8320-b214-422a-a885-2711c8be7f65)
+![445683783-841c6fc6-3b6e-4504-91b2-d912950afa07](https://github.com/user-attachments/assets/67790f78-f4b3-4d3a-b47f-763ff3de6892)
 
+<img width="4096" height="3072" alt="image" src="https://github.com/user-attachments/assets/7ebcd25b-c328-4871-80fd-aa3dd1c941ec" />
 
 ### LADDER LOGIC:
 ![Screenshot 2025-05-15 162829](https://github.com/user-attachments/assets/4fc36645-10fe-4745-ac92-ee9f32842447)

@@ -11,7 +11,7 @@ PLC Software	WPLSoft (for programming Delta PLCs)
 Input Devices	Push Button (NO)
 Output Devices	LED Indicator / Lamp
 Power Supply	24V DC for I/O, 230V AC for PLC (as per specs)
-### Theory:A
+### Theory:
 An ON-Delay Timer (TON) starts counting after the input condition is TRUE. The output turns ON after the preset time elapses.
 
 ## TON Instruction Format in Delta PLC:
@@ -51,14 +51,12 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 1	Pressed	0.5	ON
 2	Not Pressed	0	OFF
 
-
 ###  HARDWARE SETUP 
-![445683783-841c6fc6-3b6e-4504-91b2-d912950afa07](https://github.com/user-attachments/assets/67790f78-f4b3-4d3a-b47f-763ff3de6892)
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/213b7068-49a3-4eef-b6b1-e258d767854a" />
 
-<img width="4096" height="3072" alt="image" src="https://github.com/user-attachments/assets/7ebcd25b-c328-4871-80fd-aa3dd1c941ec" />
-
-### LADDER LOGIC:
-![Screenshot 2025-05-15 162829](https://github.com/user-attachments/assets/4fc36645-10fe-4745-ac92-ee9f32842447)
+### LADDER LOGIC
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89f57217-9a3e-4be9-a194-7e594d00df1d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5b02707f-c5be-419a-b023-607c124b2377" />
 
 ### Conclusion:
 The ON-Delay timer function was successfully implemented using Delta SV2 PLC. The output activated after a 0.5-second delay once the input was turned ON.

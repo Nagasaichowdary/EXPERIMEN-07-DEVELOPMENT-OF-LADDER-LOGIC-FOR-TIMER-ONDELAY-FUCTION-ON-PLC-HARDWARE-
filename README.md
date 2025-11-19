@@ -52,7 +52,7 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 2	Not Pressed	0	OFF
 
 ###  HARDWARE SETUP 
-<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/213b7068-49a3-4eef-b6b1-e258d767854a" />
+<img width="4096" height="3072" alt="image" src="https://github.com/user-attachments/assets/f296a080-1492-4546-a862-889820882511" />
 
 ### LADDER LOGIC
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89f57217-9a3e-4be9-a194-7e594d00df1d" />

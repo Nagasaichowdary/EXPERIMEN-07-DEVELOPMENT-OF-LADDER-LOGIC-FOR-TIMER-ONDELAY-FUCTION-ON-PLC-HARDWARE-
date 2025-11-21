@@ -52,7 +52,7 @@ S.No	Input (X0)	Time Delay (sec)	Output (Y0)
 2	Not Pressed	0	OFF
 
 ###  HARDWARE SETUP 
-![WhatsApp Image 2025-11-21 at 17 13 10_ac46c8fa](https://github.com/user-attachments/assets/ee3596dd-6af5-4a40-926d-4b2467b5d101)
+![WhatsApp Image 2025-11-21 at 17 17 58_47896328](https://github.com/user-attachments/assets/67005a57-7bc6-4433-80ee-b0f547c0738c)
 
 ### LADDER LOGIC
 <img width="1916" height="1016" alt="Screenshot 2025-11-21 171113" src="https://github.com/user-attachments/assets/70e5deb2-b5fb-4f24-9d05-f44e027ef208" />
